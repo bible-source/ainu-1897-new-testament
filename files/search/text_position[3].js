@@ -1,0 +1,1 @@
+positionForPages[3]={"page":3,"positions":[{"word":"CONTENTS","left":0.318893,"top":0.180932,"width":0.320827,"height":0.025789},{"word":"OSHKE","left":0.339459,"top":0.247620,"width":0.144825,"height":0.018840},{"word":"OMAP","left":0.513683,"top":0.249424,"width":0.104275,"height":0.016990}]};
